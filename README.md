@@ -26,14 +26,18 @@ Based largely in Go and in the Echo web server library. Any help is welcome! Che
 
 ### Todo
 
+Bold is priority.
+
 - [ ] Static site home and help pages
+- [ ] Link layout begun
+- [ ] Server file architecture (fancy way for saying ORGANIZE)
 - [ ] CSS style guide and styles
 - [ ] Functionality
-  - [ ] Data persistence
+  - [ ] **Data persistence**
   - [ ] Backend API
+    - [ ] **Format for character data**
     - [ ] Authentification
     - [ ] Data changing and sharing
-    - [ ] Format for character data
 
 ## Progress Log
 
