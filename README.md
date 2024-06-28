@@ -18,6 +18,7 @@ Based largely in Go and in the Echo web server library. Any help is welcome! Che
 
 - src/: Code source
   - main.go: Wraps everything in a nice bow. Edit routes and handlers here.
+  - server/: Server functionality written in Go.
   - static/: Static files sourced from root / link. Used for information pages and home page.
   - app/: Sourced from /app/ link. These are the web pages and javascript libraries that include the interactive parts. 
   - api/: Sourced from /api/ link. Files for authentification and the API.
